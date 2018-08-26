@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-You can use the [editor on GitHub](https://github.com/cqx931/DigitalLanguageArt/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+title: Digital Language Art
+feature_image: "assets/img/home-bg.jpg"
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A Project-oriented workshop for writers, visual/sound artists, filmmakers and programmers who wish to explore language art in digital media. Course content covers aesthetic, technical and theoretical concerns arising at the intersection of code, language, and digital media art. Assignments and projects will focus primarily on textual media, but will also address sound, image, video, performance and installation. You'll learn through doing, reading, discussing and collaborating on works in various media. Coding experience is preferred but not required.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cqx931/DigitalLanguageArt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Current Syllabus]()
