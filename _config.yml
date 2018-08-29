@@ -20,6 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
+root: /
 url: http://cqx931.github.io
 baseurl: /DigitalLanguageArt
 title: 'Digital Language Art I'
