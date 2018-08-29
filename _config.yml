@@ -20,8 +20,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: cqx931.github.io/DigitalLanguageArt
-baseurl: ''
+url: http://cqx931.github.io
+baseurl: /DigitalLanguageArt
 title: 'Digital Language Art I'
 email: qianxun_chen@brown.edu
 description: ''
