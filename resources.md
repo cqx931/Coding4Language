@@ -38,25 +38,31 @@ feature_image: "../assets/img/r-bg.jpg"
 #### Books
 Hayles, Katherine. [Electronic Literature : New Horizons for the Literary](https://eliterature.org/pad/elp.html). Notre Dame, Ind.: University of Notre Dame, 2008.
 
-#### Articles
-http://www.ubu.com/papers/kostelanetz.html
-http://electronicbookreview.com/essay/aurature-at-the-ends-of-electronic-literature/
+Hayles, Katherine. My Mother Was a Computer : Digital Subjects and Literary Texts. Chicago: University of Chicago Press, 2005. ([Online version from Brown University Library](https://search.library.brown.edu/catalog/b7226281))
 
+Johnston, David Jhave. Aesthetic Animism : Digital Poetry's Ontological Implications. ([Online version from Brown University Library](https://search.library.brown.edu/catalog/b7954130))
+
+Cayley, John. Grammalepsy: Essays on Digital Language Art. Bloomsbury Publishing USA, 2018.
+
+#### Articles
+
+http://electronicbookreview.com/essay/grammalepsy-an-introduction/
+http://electronicbookreview.com/essay/aurature-at-the-ends-of-electronic-literature/
+http://electronicbookreview.com/essay/the-code-is-not-the-text-unless-it-is-the-text/
 http://www.raintaxi.com/multiplicity-an-interview-with-ian-hatcher/
 
-http://electronicbookreview.com/essay/the-code-is-not-the-text-unless-it-is-the-text/
+http://www.ubu.com/papers/kostelanetz.html
 http://www.dichtung-digital.org/2006/01/Raley/index.htm
-
 http://actascenica.teak.fi/huopaniemi-otso/
-http://electronicbookreview.com/essay/grammalepsy-an-introduction/
 
 
 ### Tools
 * [RiTa](http://www.rednoise.org/rita/): a software toolkit for computational literature [Java/Javascript/Processing/Node JS/Android]
 * [Spacy](https://spacy.io/): Industrial-strength NLP in python
 
-* [Processing](http://processing.org/)
-
+* [Processing](http://processing.org/): a software toolkit within the context of the visual arts
+* [P5js](https://p5js.org/): a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing
+* [AFrame](https://aframe.io/): A web framework for building virtual reality experiences
 
 ### Other Links
 

@@ -21,8 +21,8 @@ plugins:
 
 # Site settings
 root: /
-url: http://cqx931.github.io
-baseurl: /DigitalLanguageArt
+url: http://introfall2018.dlarts.xyz
+baseurl: /
 title: 'Digital Language Art I'
 email: qianxun_chen@brown.edu
 description: ''
