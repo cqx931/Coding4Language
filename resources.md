@@ -44,6 +44,9 @@ Johnston, David Jhave. Aesthetic Animism : Digital Poetry's Ontological Implicat
 
 Cayley, John. Grammalepsy: Essays on Digital Language Art. Bloomsbury Publishing USA, 2018.
 
+Hartman, Charles O. Virtual Muse : Experiments In Computer Poetry. Hanover, N.H.: Published by University of Press of New England [for] Weleyan University Press, 1996.
+
+
 #### Articles
 
 http://electronicbookreview.com/essay/grammalepsy-an-introduction/

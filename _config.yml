@@ -20,10 +20,10 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-root: /
 url: http://introfall2018.dlarts.xyz
 baseurl: /
 title: 'Digital Language Art I'
+author: Qianxun Chen
 email: qianxun_chen@brown.edu
 description: ''
 permalink: pretty
