@@ -6,6 +6,7 @@ feature_image: "../assets/img/r-bg.jpg"
 ---
 
 ### Artists
+<!-- * [Alan Sondheim] -->
 * [Alessandro Capozzo](http://www.abstract-codex.net/bio.html)
 * [Annie Abrahams](http://www.bram.org/)
 * [Allison Parrish](http://www.decontextualize.com/)
@@ -31,6 +32,7 @@ feature_image: "../assets/img/r-bg.jpg"
 * [Nick Montfort](http://nickm.com/)
 * [Ottar Ormstad/OTTARAS](http://yellowpoetry.com/)
 * [Stephanie Strickland](http://www.stephaniestrickland.com/)
+* [Talan Memmott](http://talanmemmott.info)
 * [Ted Warnell](https://warnell.com/)
 
 
@@ -60,6 +62,11 @@ http://actascenica.teak.fi/huopaniemi-otso/
 
 
 ### Tools
+
+[Audacity](https://www.audacityteam.org/): a free, open source, cross-platform audio software
+[Adobe Creative Cloud](https://www.brown.edu/information-technology/software/catalog/adobe-creative-cloud-desktop-application):free to all Brown Students!
+
+# Coding
 * [RiTa](http://www.rednoise.org/rita/): a software toolkit for computational literature [Java/Javascript/Processing/Node JS/Android]
 * [Spacy](https://spacy.io/): Industrial-strength NLP in python
 
@@ -68,23 +75,24 @@ http://actascenica.teak.fi/huopaniemi-otso/
 * [AFrame](https://aframe.io/): A web framework for building virtual reality experiences
 
 ### Other Links
-
+* [Arras.Net](http://www.arras.net)
 * [DrunkenBoat](http://www.drunkenboat.com/)
 * [E-LiteratureCollection 1](http://collection.eliterature.org/1/)
 * [E-LiteratureCollection 2](http://collection.eliterature.org/2/)
 * [E-LiteratureCollection 3](http://collection.eliterature.org/3/)
-* [This Week in E-Lit](https://paper.li/eliterature#/)
 * [ElectronicBookReview](http://www.electronicbookreview.com/)
 * [I Love ePoetry](http://iloveepoetry.com/)
+* [jodi](jodi.org) :  a collective of two internet artists: Joan Heemskerk and Dirk Paesmans
 * [Rhizome](http://rhizome.org/)
-* [UbuWeb](http://www.ubu.com/)
+* [This Week in E-Lit](https://paper.li/eliterature#/)
 * [UBUSound](http://www.ubu.com/sound/index.html)
+* [UbuWeb](http://www.ubu.com/)
 
 <!-- ElectronicPoetryCenter
 EastgateSystems
 CODeDoc
 ContinentalReview
-Arras.Net
+
 Post-Digital
 GrandTextAuto
 KellyWritersHouse
@@ -99,6 +107,10 @@ SpringGun
 Turbulence
 WhitneyARTPORT-->
 
+<!--
+mesostic poem generator
+http://mesostics.sas.upenn.edu/
+ -->
 <!--  
 ### Other Course Websites for reference
 [textplus](https://textplus2015.wordpress.com/)
