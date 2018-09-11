@@ -86,7 +86,7 @@ http://actascenica.teak.fi/huopaniemi-otso/ -->
 * [E-LiteratureCollection 1](http://collection.eliterature.org/1/)
 * [E-LiteratureCollection 2](http://collection.eliterature.org/2/)
 * [E-LiteratureCollection 3](http://collection.eliterature.org/3/)
-* [ElectronicBookReview](http://www.electronicbookreview.com/)
+* [Electronic Book Review](http://www.electronicbookreview.com/)
 * [I Love ePoetry](http://iloveepoetry.com/)
 * [jodi](jodi.org) :  a collective of two internet artists: Joan Heemskerk and Dirk Paesmans
 * [Rhizome](http://rhizome.org/)
