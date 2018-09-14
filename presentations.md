@@ -2,7 +2,7 @@
 layout: page
 title:  "Presentations"
 date:   2018-09-13 21:45:51 -0400
-categories: Announcements
+feature_image: "../assets/img/presentations-bg.jpg"
 ---
 
 Please sign up for presentations [here](https://docs.google.com/spreadsheets/d/1ZXP5Y2u4MbgwM_KZMIRswBQNS5wGiDx4AGXsN6ALnMY/edit?usp=sharing)
