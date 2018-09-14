@@ -4,7 +4,7 @@ title:  "Assignment Week1"
 date:   2018-09-13 21:45:51 -0400
 categories: Assignments
 ---
-**Due Monday, September 17 4pm**
+**Due 4PM September 17**
 
 1. Read ["Principles of New Media"](https://drive.google.com/file/d/1Je2G9YtM8d5B6jCe3zKRpelRH1EAy7_f/view) from *The Language of New Media* by Lev Manovich  
     <small>These are some principles for you to consider through out the whole semester. Try to keep language in mind as you read through it. What are the similarities between language and digital media? How do artists engage with these tendencies in the following art examples?</small>
