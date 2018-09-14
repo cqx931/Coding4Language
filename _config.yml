@@ -37,6 +37,7 @@ paginate_path: blog/page:num
 navigation_header:
   Home: /
   Posts: /posts/
+  Presentations: /presentations/
   Resources: /resources/
   Questions: /questions/
   Search: /search/
