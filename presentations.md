@@ -5,7 +5,7 @@ date:   2018-09-13 21:45:51 -0400
 categories: Announcements
 ---
 
-Please sign up your preference of presentation [here](https://docs.google.com/spreadsheets/d/1ZXP5Y2u4MbgwM_KZMIRswBQNS5wGiDx4AGXsN6ALnMY/edit?usp=sharing)
+Please sign up for presentations [here](https://docs.google.com/spreadsheets/d/1ZXP5Y2u4MbgwM_KZMIRswBQNS5wGiDx4AGXsN6ALnMY/edit?usp=sharing)
 
 * Choose an artist from the [list](http://introfall2018.dlarts.xyz/resources/) for presentation
 
