@@ -34,6 +34,7 @@ feature_image: "../assets/img/r-bg.jpg"
 * [Nick Montfort](http://nickm.com/)
 * [Ottar Ormstad/OTTARAS](http://yellowpoetry.com/)
 * [Stephanie Strickland](http://www.stephaniestrickland.com/)
+* [Shelley Jackson](http://www.ineradicablestain.com/)
 * [Talan Memmott](http://talanmemmott.info)
 * [Ted Warnell](https://warnell.com/)
 * [Young-Hae Chang Heavy Industries](http://yhchang.com/)
