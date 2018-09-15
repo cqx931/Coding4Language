@@ -7,7 +7,9 @@ feature_image: "../assets/img/presentations-bg.jpg"
 
 Please sign up for presentations [here](https://docs.google.com/spreadsheets/d/1ZXP5Y2u4MbgwM_KZMIRswBQNS5wGiDx4AGXsN6ALnMY/edit?usp=sharing)
 
-* Choose an artist from the [list](http://introfall2018.dlarts.xyz/resources/) for presentation
+* Choose an artist from the [list](http://introfall2018.dlarts.xyz/resources/) for presentation.
+
+* You can also present an artist who is not on the list, but please email in advance to confirm it with me.
 
 * You are only going to present one time in the whole semester.
 
