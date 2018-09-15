@@ -22,6 +22,7 @@ feature_image: "../assets/img/r-bg.jpg"
 * [Ian hatcher](https://rednoise.org/wdm/index.php?n=Main.Artists)
 * [Janet Zweig](http://www.janetzweig.com/)
 * [Jenny Holzer](http://projects.jennyholzer.com/)
+* [Jonathan Harris](http://number27.org/)
 * [David Jhave Johnston](http://glia.ca/)
 * [John Cayley](http://programmatology.shadoof.net/index.php)
 * [J.R.Carpenter](http://luckysoap.com/)
