@@ -47,6 +47,8 @@ Johnston, David Jhave. Aesthetic Animism : Digital Poetry's Ontological Implicat
 
 Hayles, Katherine. My Mother Was a Computer : Digital Subjects and Literary Texts. Chicago: University of Chicago Press, 2005. ([Online version from Brown University Library](https://search.library.brown.edu/catalog/b7226281))
 
+Simanowski, Roberto. Digital Art and Meaning : Reading Kinetic Poetry, Text Machines, Mapping Art, and Interactive Installations. Minneapolis: University of Minnesota Press, 2011.
+
 Hayles, Katherine. [Electronic Literature : New Horizons for the Literary](https://eliterature.org/pad/elp.html). Notre Dame, Ind.: University of Notre Dame, 2008.
 
 Cayley, John. Grammalepsy: Essays on Digital Language Art. Bloomsbury Publishing USA, 2018.
