@@ -17,4 +17,24 @@ Please sign up for presentations [here](https://docs.google.com/spreadsheets/d/1
 
 * First come first served! There is a higher chance to get your first choice if you sign up early.
 
-* We will talk about this in details next week
+<h6>Schedule</h6>
+
+* Week3 Elisia Lopez: Y0UNG-HAE CHANG HEAVY INDUSTRIES
+
+<!-- Final List
+Week4 (10/02) Generative text
+Aansh Shah: MEZ (Mary-Ann Breeze)
+
+Week5 (10/09) Materiality and installation: Text in 3D space
+Keri Brooks: Jenny Holzer
+
+Week6 (10/16) Code and language
+Aansh Shah: MEZ (Mary-Ann Breeze)
+
+Week7 (10/23) Data and Internet
+
+Week8 (10/30) Playful texts: Interactivity and Performance
+
+Week9 (11/6) Digital Poetics
+
+Week10 (11/13) Translation and multilingual practices -->

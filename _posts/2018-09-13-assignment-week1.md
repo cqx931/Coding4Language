@@ -24,7 +24,3 @@ categories: Assignments
 * Write a response for all the readings and artworks. Keep the length around 200 words.
 * Since we are very likely not going to have presentations for next week (no volunteer so far), please include one example in your writing response: something interesting that you would like to contribute to the discussion of the week. It could be an art project, an article, a youtube video or even a research paper. You can also write about your example with other materials in your writing response , but it is not necessary.
 * Send the url of your blog/website to me by email
-
-<!--
-
-Watch: https://player.vimeo.com/video/229725677 （the first 5 minutes） -->

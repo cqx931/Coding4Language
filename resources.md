@@ -75,14 +75,17 @@ http://actascenica.teak.fi/huopaniemi-otso/ -->
 ### Tools
 
 * [Audacity](https://www.audacityteam.org/): a free, open source, cross-platform audio software
-* [Adobe Creative Cloud](https://www.brown.edu/information-technology/software/catalog/adobe-creative-cloud-desktop-application):free to all Brown Students!
+* [Adobe Creative Cloud](https://www.brown.edu/information-technology/software/catalog/adobe-creative-cloud-desktop-application): free to all Brown Students!
 
 ### Coding
 * [RiTa](http://www.rednoise.org/rita/): a software toolkit for computational literature [Java/Javascript/Processing/Node JS/Android]
 * [P5js](https://p5js.org/): a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing
-* [Spacy](https://spacy.io/): Industrial-strength NLP in python
+* [Spacy](https://spacy.io/): industrial-strength NLP in python
 * [Processing](http://processing.org/): a software toolkit within the context of the visual arts
-* [AFrame](https://aframe.io/): A web framework for building virtual reality experiences
+* [Three.js](https://threejs.org/): 3D library for webGL
+* [Leap motion](https://www.leapmotion.com/): hand tracking toolkit
+* [Google Maps Geocoding API](https://developers.google.com/maps/documentation/geocoding/intro)
+* [AFrame](https://aframe.io/): a web framework for building virtual reality experiences
 
 ### Other Links
 * [Arras.Net](http://www.arras.net)
