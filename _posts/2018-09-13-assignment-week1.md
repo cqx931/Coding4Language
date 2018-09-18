@@ -11,7 +11,7 @@ categories: Assignments
 <br>
 1. Listen to *[Prosthesis](https://soundcloud.com/ihatch)* by Ian Hatcher:
 , then read [an interview with the artist](http://www.raintaxi.com/multiplicity-an-interview-with-ian-hatcher/).
-1. Check out *[The Listener](http://programmatology.shadoof.net/?thelisteners)* by John Cayley and read [an essay](http://electronicbookreview.com/essay/aurature-at-the-ends-of-electronic-literature/) related to this project.  
+1. Check out *[The Listeners](http://programmatology.shadoof.net/?thelisteners)* by John Cayley and read [an essay](http://electronicbookreview.com/essay/aurature-at-the-ends-of-electronic-literature/) related to this project.  
     <small>You don't need to check out all the audio samples, for the class discussion please listen to **the first Sample Session From Version 2** (the one with Ian Hatcher).</small>
 <br>
 1. Watch *[LONG RONG SONG](https://vimeo.com/143451232)* by OTTARAS
