@@ -8,15 +8,15 @@ categories: Assignments
 ***No need to send me a email! Just post it on your blog!***
 
 <h6>Experiment</h6>
-* A three minute sound file of your voice / text to speech / voice of an AI / a dialogue between a human and an AI.
+* A three-minute sound file of your voice / text to speech / voice of an AI / a dialogue between a human and an AI, etc.
 * You can also include sound elements that are not 'voices' in your piece (music, noise, ambience...), but please focus on voice.
 
 <h6>Readings</h6>
-* [We who spoke LOLcat now speak Doge](https://io9.gizmodo.com/we-who-spoke-lolcat-now-speak-doge-1481243678/1482130388)
+* ["We who spoke LOLcat now speak Doge"](https://io9.gizmodo.com/we-who-spoke-lolcat-now-speak-doge-1481243678/1482130388)
 
-* [Flat Logics, Deep Critique: Temporalities, Aesthetics and Ecologies in Electronic Literature on the Web]()
+* ["Flat Logics, Deep Critique: Temporalities, Aesthetics and Ecologies in Electronic Literature on the Web"]()
 
-* My Mother Was a Computer: Digital Subjects and Literary Texts:
+* *My Mother Was a Computer: Digital Subjects and Literary Texts*:
 **Prologue, Ch. 4**
 
 
