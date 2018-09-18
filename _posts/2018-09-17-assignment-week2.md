@@ -7,7 +7,7 @@ categories: Classes
 * [Code X](https://directory.eliterature.org/individual-work/4662)
 * [Future of Fake News](http://futureoffakenews.com/)
 
-Tools
+<h6>Tools</h6>
 * [Lyrebird](https://lyrebird.ai/): voice-cloning text-to-speech
 * [ResponsiveVoice.JS](https://responsivevoice.org/)
 * [Text2Speech on Mac](http://mac2speech.com/voices/)
