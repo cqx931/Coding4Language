@@ -11,7 +11,7 @@ feature_image: "../assets/img/students-bg.jpg"
 * [Kimberly Le]( https://kimberlyle39.wixsite.com/dla-2018)
 * [Elizabeth Campos](http://sneezebabydla.tumblr.com/)
 * [Ivy Wong](http://ivywong.me/dlarts/)
-* [Aansh Shah](https://medium.com/@aansh_shah/assignment-1-98d673c9ebd0)
+* [Aansh Shah](http://aanshshah.blogspot.com/)
 * [Roelle Thorpe](https://thorpedla.tumblr.com/)
 * [Abraar Chaudhry](https://dlarts1.blogspot.com/)
 * [Jerome Ramos](http://jeromedla.blogspot.com/)
