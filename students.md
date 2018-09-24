@@ -19,4 +19,5 @@ feature_image: "../assets/img/students-bg.jpg"
 * [Keri Brooks](https://litr0110.blogspot.com)
 * [Abraar Chaudhry](https://dlarts1.blogspot.com/)
 * [Gregory Harris](https://digitalmusings.tumblr.com/)
-* [Niyoshi Parekh](niyoshi.crevado.com.)
+* [Niyoshi Parekh](https://niyoshiparekh.wixsite.com/website)
+* [Makeda Hughes](https://makedahhughes.wixsite.com/nimportequoi)
