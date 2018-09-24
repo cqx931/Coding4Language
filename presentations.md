@@ -19,9 +19,12 @@ Please sign up for presentations [here](https://docs.google.com/spreadsheets/d/1
 
 <h6>Schedule</h6>
 
-* Week3 Elisia Lopez: Y0UNG-HAE CHANG HEAVY INDUSTRIES
+* Week3
+        Elisia Lopez: Y0UNG-HAE CHANG HEAVY INDUSTRIES   
         Greg Carlin: Jhave
-* Week 4 Ben Gabinet: Allison Parrish
+* Week 4  
+        Ben Gabinet: Allison Parrish
+
 <!-- Final List
 Week4 (10/02) Generative text
 Aansh Shah: MEZ (Mary-Ann Breeze)
