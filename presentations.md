@@ -23,17 +23,25 @@ Please sign up for presentations [here](https://docs.google.com/spreadsheets/d/1
         Elisia Lopez: Y0UNG-HAE CHANG HEAVY INDUSTRIES   
         Greg Carlin: Jhave
 * Week 4  
-        Ben Gabinet: Allison Parrish
+        Ben Gabinet: Allison Parrish   
+        Ivy Wong: Nick Montfort  
+* Week 5  
+        Keri Brooks: Jenny Holzer  
+        Roelle Thorpe: Shelley Jackson  
+* Week 6  
+        Aansh Shah: MEZ (Mary-Ann Breeze)  
+* Week 7  
+        Kimberly Le: Jonathan Harris  
+* Week 8  
+        Makedah Hughes: Judd Morrissey  
+* Week 9  
+        Matt Steinberg: David Knoebel
+        Nathan Torres: JR Carpenter
+* Week 10  
+
 
 <!-- Final List
-Week4 (10/02) Generative text
-Aansh Shah: MEZ (Mary-Ann Breeze)
 
-Week5 (10/09) Materiality and installation: Text in 3D space
-Keri Brooks: Jenny Holzer
-
-Week6 (10/16) Code and language
-Aansh Shah: MEZ (Mary-Ann Breeze)
 
 Week7 (10/23) Data and Internet
 
