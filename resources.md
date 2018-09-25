@@ -26,6 +26,7 @@ feature_image: "../assets/img/r-bg.jpg"
 * [David Jhave Johnston](http://glia.ca/)
 * [John Cayley](http://programmatology.shadoof.net/index.php)
 * [J.R.Carpenter](http://luckysoap.com/)
+* [Joanne McNeil](http://www.joannemcneil.com/)
 * [Judd Morrissey](http://www.judisdaid.org/)
 <!-- * [Laura Zaylea](https://laurazaylea.com/) -->
 * [Maria Mencia](http://www.mariamencia.com/)
