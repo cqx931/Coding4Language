@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assignment Week3"
+title:  "Assignment Week4"
 date:   2018-10-03 13:00:13 -0400
 categories: Assignments
 ---
@@ -9,8 +9,8 @@ categories: Assignments
 ## Check out
 * *[Text Rain](http://camilleutterback.com/projects/text-rain/)*, by Romy Achituv & Camille Utterback
 * *[Stream of Consciousness: An Interactive Poetic Garden](https://www.youtube.com/watch?v=5onPBBpGed8)*, by David Small and Tom White
-* [these VR experiments](http://glia.ca/2017/ar/) made by Jhave, if you have a google cardboard or other VR devices, check it out in VR!
 * [Curved](http://curved.glia.ca/category/idea/), an artistic research project with many interesting experiments with language in 3D
+* [these VR experiments](http://glia.ca/2017/ar/) made by Jhave, if you have a google cardboard or other VR devices, check it out in VR!
 
 ### Reading
 * [Roberts, Andrew Michael. "Why Digital Literature Has Always Been ‘Beyond the Screen’." Beyond the Screen: Transformations of Literary Structures, Interfaces and Genres 44 (2010): pp. 153 - 177.](https://books.google.com/books?id=KuhKCgAAQBAJ&lpg=PA4&pg=PA153#v=onepage&q&f=false)
