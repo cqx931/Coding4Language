@@ -5,6 +5,10 @@ date:   2018-10-03 13:00:13 -0400
 categories: Assignments
 ---
 **Due 4PM October 8**  
+##Experiment
+* Make an interesting generative piece using Markov chain or grammar rules
+* Play with text analysis
+* Test your generation results with your friends!
 
 ## Check out
 * *[Text Rain](http://camilleutterback.com/projects/text-rain/)*, by Romy Achituv & Camille Utterback
