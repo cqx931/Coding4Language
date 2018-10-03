@@ -5,12 +5,12 @@ date:   2018-10-03 13:00:13 -0400
 categories: Assignments
 ---
 **Due 4PM October 8**  
-##Experiment
+### Experiment
 * Make an interesting generative piece using Markov chain or grammar rules
 * Play with text analysis
 * Test your generation results with your friends!
 
-## Check out
+### Check out
 * *[Text Rain](http://camilleutterback.com/projects/text-rain/)*, by Romy Achituv & Camille Utterback
 * *[Stream of Consciousness: An Interactive Poetic Garden](https://www.youtube.com/watch?v=5onPBBpGed8)*, by David Small and Tom White
 * [Curved](http://curved.glia.ca/category/idea/), an artistic research project with many interesting experiments with language in 3D
