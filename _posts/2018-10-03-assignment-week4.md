@@ -17,7 +17,7 @@ categories: Assignments
 * [these VR experiments](http://glia.ca/2017/ar/) made by Jhave, if you have a google cardboard or other VR devices, check it out in VR!
 
 ### Reading
-* [Roberts, Andrew Michael. "Why Digital Literature Has Always Been ‘Beyond the Screen’." Beyond the Screen: Transformations of Literary Structures, Interfaces and Genres 44 (2010): pp. 153 - 177.](https://books.google.com/books?id=KuhKCgAAQBAJ&lpg=PA4&pg=PA153#v=onepage&q&f=false)
+* [Roberts, Andrew Michael. "Why Digital Literature Has Always Been ‘Beyond the Screen’." Beyond the Screen: Transformations of Literary Structures, Interfaces and Genres 44 (2010): pp. 153 - 177.](https://drive.google.com/open?id=1_6Sx9vxGWgAMD0OwI14KaRyyQk9WlrIf)
 
 ### Questions to think about
 * If the same text is presented in 2D format, would it still be the same work? What make texts in 3D (Virtual reality or the physical world) different from texts in print/texts on a flat screen?  Come up with a list of 10 keywords.
