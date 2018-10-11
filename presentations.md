@@ -30,19 +30,19 @@ Please sign up for presentations [here](https://docs.google.com/spreadsheets/d/1
         Roelle Thorpe: Shelley Jackson  
 * Week 6  
         Aansh Shah: MEZ (Mary-Ann Breeze)  
-        Elizabeth Campos: Jodi
+        Elizabeth Campos: Jodi  
 * Week 7  
         Kimberly Le: Jonathan Harris  
-        Gregory Harris: Talan Memott
+        Gregory Harris: Talan Memott  
 * Week 8  
-        Abraar Chaudhry: Judd Morrissey
-        Rhythm Rastogi: Annie Abrahams
+        Abraar Chaudhry: Judd Morrissey  
+        Rhythm Rastogi: Annie Abrahams  
 * Week 9  
-        Matt Steinberg: David Knoebel
-        Nathan Torres: JR Carpenter
-        Jerome Ramos: Brian Kim Stefan
+        Matt Steinberg: David Knoebel  
+        Nathan Torres: JR Carpenter  
+        Jerome Ramos: Brian Kim Stefan  
 * Week 10  
-        Makedah Hughes: Maria Mencia
+        Makedah Hughes: Maria Mencia  
 
 
 
