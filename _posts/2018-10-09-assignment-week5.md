@@ -16,9 +16,9 @@ categories: Assignments
 * [Recommended] [An interview with Mez Breeze](http://rhizome.org/editorial/2016/dec/15/mezangelle-an-online-language-for-codework-and-poetry/) by Aria Dean on Rhizome.
 
 ### Art
-Spend some time "reading" the following art:
+Spend some time "reading":
 * [Mezangelle](https://anthology.rhizome.org/mez-breeze), Mez Breeze. (Example:[Datableed](http://netwurkerz.de/mez/datableed/complete/index.htm)).
-* [Jodi](http://www.jodi.org/), Joan Heemskerk and Dirk Paesmans (Refresh the page several times!)
+* [Jodi](http://www.jodi.org/), Joan Heemskerk and Dirk Paesmans: Refresh the page several times!
 
 ### Questions to think about:
 * Is computer code language? (Is “programming language” an oxymoron?)
