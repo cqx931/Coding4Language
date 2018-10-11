@@ -18,7 +18,7 @@ categories: Assignments
 ### Art
 Spend some time "reading":
 * [Mezangelle](https://anthology.rhizome.org/mez-breeze), Mez Breeze. (Example:[Datableed](http://netwurkerz.de/mez/datableed/complete/index.htm)).
-* [Jodi](http://www.jodi.org/), Joan Heemskerk and Dirk Paesmans: Refresh the page several times!
+* [Jodi](http://www.jodi.org/), Joan Heemskerk and Dirk Paesmans: Refresh the page to see different results! Screenshots could be helpful to 'freeze' it.
 
 ### Questions to think about:
 * Is computer code language? (Is “programming language” an oxymoron?)
