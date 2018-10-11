@@ -18,5 +18,5 @@ feature_image: "../assets/img/students-bg.jpg"
 * [Matt Steinberg](https://mattsteinberglitr110d.tumblr.com)
 * [Keri Brooks](https://litr0110.blogspot.com)
 * [Gregory Harris](https://digitalmusings.tumblr.com/)
-* [Niyoshi Parekh](https://niyoshiparekh.wixsite.com/website)
+<!-- * [Niyoshi Parekh](https://niyoshiparekh.wixsite.com/website) -->
 * [Makeda Hughes](https://makedahhughes.wixsite.com/nimportequoi)
