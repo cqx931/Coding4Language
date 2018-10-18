@@ -8,6 +8,7 @@ categories: Assignments
 ### Experiment
 * Mix or blend language and code (programming language & other possibilities?) in a creative way.
 * Possible directions to go: ambiguity, poetics, following/breaking a certain structure, différance...
+* For anyone who don’t feel comfortable with programming languages, I would suggest you picking a code system that you are familiar with. There are many different code systems out there in our life, following a specific format or a set of rules. A few examples: bar code, zip code, time stamps, morse code, music notations etc… Think about the rules this particular code system is using and see whether you can use language to ‘hack’ it or use that code system to challenge language.
 
 ### Art
 * TBD
