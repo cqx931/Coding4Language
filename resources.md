@@ -76,7 +76,6 @@ http://actascenica.teak.fi/huopaniemi-otso/ -->
 
 
 ### Tools
-
 * [Audacity](https://www.audacityteam.org/): a free, open source, cross-platform audio software
 * [Adobe Creative Cloud](https://www.brown.edu/information-technology/software/catalog/adobe-creative-cloud-desktop-application): free to all Brown Students!
 
@@ -89,6 +88,7 @@ http://actascenica.teak.fi/huopaniemi-otso/ -->
 * [Leap motion](https://www.leapmotion.com/): hand tracking toolkit
 * [Google Maps Geocoding API](https://developers.google.com/maps/documentation/geocoding/intro)
 * [AFrame](https://aframe.io/): a web framework for building virtual reality experiences
+* [SuperCollider](https://supercollider.github.io/): a platform for audio synthesis and algorithmic composition
 
 ### Other Links
 * [Arras.Net](http://www.arras.net)
