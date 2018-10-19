@@ -102,6 +102,7 @@ http://actascenica.teak.fi/huopaniemi-otso/ -->
 * [Rhizome](http://rhizome.org/)
 * [This Week in E-Lit](https://paper.li/eliterature#/)
 * [UBUSound](http://www.ubu.com/sound/index.html)
+* [Pennsound](http://writing.upenn.edu/pennsound/)
 * [UbuWeb](http://www.ubu.com/)
 
 <!-- ElectronicPoetryCenter
@@ -115,7 +116,6 @@ KellyWritersHouse
 MachineSeries
 NewRiverJournal
 NT2
-PENNsound
 PoemsThatGo
 RadioRadio
 RunMe.org

@@ -11,7 +11,9 @@ categories: Assignments
 * For anyone who don’t feel comfortable with programming languages, I would suggest you picking a code system that you are familiar with. There are many different code systems out there in our life, following a specific format or a set of rules. A few examples: bar code, zip code, time stamps, morse code, music notations etc… Think about the rules this particular code system is using and see whether you can use language to ‘hack’ it or use that code system to challenge language.
 
 ### Art
-* TBD
+* Check [Opinions Are My Own](https://chrome.google.com/webstore/detail/opinions-are-my-own/khieoiopkamkfgfgddiciaiogcolelhj), by Leon Ecker
+* [Sonnets of Pentametron](http://gawker.com/5905550/weird-internets-the-amazing-found-on-twitter-sonnets-of-pentametron)
+* [Video: "Experimental Creative Writing with the Vectorized Word"](https://www.youtube.com/watch?v=L3D0JEA1Jdc) by Allison Parrish, make sure to watch the reading starting from 34:50, you can watch the rest of the video if you are interested to know more about the project
 
 ### Reading:
 * [Cultural Data: Possibilities and limitations of the digital data universe](http://manovich.net/content/04-projects/102-cultural-data/cultural_data_article.pdf)
@@ -22,4 +24,4 @@ categories: Assignments
 ### Questions
 * When do language become data?
 * How does internet influence our perception of language/society/humanity?
-* How could we make creative and ethical use of all the enormous corpora of language online?
+* How could we make creative and ethical use of the language corpora online?
