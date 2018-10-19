@@ -13,15 +13,16 @@ categories: Assignments
 ### Art
 * Check [Opinions Are My Own](https://chrome.google.com/webstore/detail/opinions-are-my-own/khieoiopkamkfgfgddiciaiogcolelhj), by Leon Ecker
 * [Sonnets of Pentametron](http://gawker.com/5905550/weird-internets-the-amazing-found-on-twitter-sonnets-of-pentametron)
-* [Video: "Experimental Creative Writing with the Vectorized Word"](https://www.youtube.com/watch?v=L3D0JEA1Jdc) by Allison Parrish, make sure to watch the reading starting from 34:50, you can watch the rest of the video if you are interested to know more about the project
+* [Video: "Experimental Creative Writing with the Vectorized Word"](https://www.youtube.com/watch?v=L3D0JEA1Jdc) by Allison Parrish, make sure to watch the reading starting from 34:50, you can watch the rest of the video if you want to know more about the project
 
 ### Reading:
 * [Cultural Data: Possibilities and limitations of the digital data universe](http://manovich.net/content/04-projects/102-cultural-data/cultural_data_article.pdf)
 * A manifesto: ["Data Will Help Us"](http://datawillhelp.us/)
+* ["The Secrets of Surveillance Capitalism"](http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616-p2.html?printPagedArticle=true#pageIndex_3), Shoshana Zuboff
 <!-- * surveillance capitalism? -->
 <!-- * [How to think about bots?](https://motherboard.vice.com/en_us/article/qkzpdm/how-to-think-about-bots) -->
 
-### Questions
-* When do language become data?
-* How does internet influence our perception of language/society/humanity?
-* How could we make creative and ethical use of the language corpora online?
+### Questions to think about
+* When do language become data? What are the possibilities, limitations, concerns of data?
+<!-- * How does internet influence our perception of language/society/humanity? -->
+* How could we make creative and ethical use of the textual data online?
