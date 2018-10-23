@@ -105,7 +105,7 @@ http://actascenica.teak.fi/huopaniemi-otso/ -->
 * [UBUSound](http://www.ubu.com/sound/index.html)
 * [Pennsound](http://writing.upenn.edu/pennsound/)
 * [UbuWeb](http://www.ubu.com/)
-
+* [Turbulence](http://turbulence.org/): 356 works of e-lit and Internet art
 <!-- ElectronicPoetryCenter
 EastgateSystems
 CODeDoc
@@ -121,7 +121,7 @@ PoemsThatGo
 RadioRadio
 RunMe.org
 SpringGun
-Turbulence
+
 WhitneyARTPORT-->
 
 <!--
