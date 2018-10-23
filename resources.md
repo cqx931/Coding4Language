@@ -15,6 +15,7 @@ feature_image: "../assets/img/r-bg.jpg"
 * [Ben Fry](http://benfry.com/)
 <!-- * [Bill Seaman](http://billseaman.com/) -->
 * [Brian Kim Stefans](https://arras.net/arras/)
+* [Charles Sandison]()
 * [Dan Waber](http://logolalia.com/)
 * [Daniel C. Howe](http://rednoise.org/dhowe)
 * [David Drokeby](http://www.davidrokeby.com/)
