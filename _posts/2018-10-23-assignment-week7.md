@@ -7,7 +7,7 @@ categories: Assignments
 **Due 4PM October 29**  
 ### Experiment
 * Create a DLA project that meets at least one of the following requirements
-1. Show casing a data set in a creative way
+1. Showcasing a data set in a creative way
 2. Use content (primarily text) from Internet as your raw material / playground
 * Try to keep the project small. If you have a good idea that sounds more like a final project, you can implement a prototype/demo at this stage
 
