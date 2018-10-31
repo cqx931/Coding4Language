@@ -107,24 +107,7 @@ http://actascenica.teak.fi/huopaniemi-otso/ -->
 * [UbuWeb](http://www.ubu.com/)
 * [Turbulence](http://turbulence.org/): 356 works of e-lit and Internet art
 <!-- ElectronicPoetryCenter
-EastgateSystems
-CODeDoc
-ContinentalReview
 
-Post-Digital
-GrandTextAuto
-KellyWritersHouse
-MachineSeries
-NewRiverJournal
-NT2
-PoemsThatGo
-RadioRadio
-RunMe.org
-SpringGun
-
-WhitneyARTPORT-->
-
-<!--
 mesostic poem generator
 http://mesostics.sas.upenn.edu/
- -->
+-->
