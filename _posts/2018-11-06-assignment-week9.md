@@ -5,7 +5,8 @@ date:   2018-11-06 13:00:13 -0400
 categories: Assignments
 ---
 **Due 4PM November 13**  
-### No Experiment this week! Work on your final project proposal!
+### No Experiment this week!
+Work on your final project proposal!
 
 ### For Next Week
 * Check [Translation](http://programmatology.shadoof.net/?translation), by John Cayley & Giles Perring
