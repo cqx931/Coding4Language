@@ -19,7 +19,7 @@ feature_image: "../assets/img/r-bg.jpg"
 * [Dan Waber](http://logolalia.com/)
 * [Daniel C. Howe](http://rednoise.org/dhowe)
 * [David Drokeby](http://www.davidrokeby.com/)
-* [David Knoebel](http://home.ptd.net/~clkpoet/)
+<!-- * [David Knoebel](http://home.ptd.net/~clkpoet/) -->
 * [Ian hatcher](https://rednoise.org/wdm/index.php?n=Main.Artists)
 * [Janet Zweig](http://www.janetzweig.com/)
 * [Jenny Holzer](http://projects.jennyholzer.com/)
