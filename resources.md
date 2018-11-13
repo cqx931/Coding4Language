@@ -93,6 +93,7 @@ http://actascenica.teak.fi/huopaniemi-otso/ -->
 
 ### Other Links
 * [Arras.Net](http://www.arras.net)
+* [Adaweb](http://www.adaweb.com/)
 * [DrunkenBoat](http://www.drunkenboat.com/)
 * [E-LiteratureCollection 1](http://collection.eliterature.org/1/)
 * [E-LiteratureCollection 2](http://collection.eliterature.org/2/)
