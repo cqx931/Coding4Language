@@ -6,7 +6,7 @@ categories: Assignments
 ---
 ### Experiment
 * Translate a digital language art project into another language or another media
-* You can decide the way you want to translate it: Literal translation, homophonic translation, or translating like a bird (Read [Thie poem is a nomad](https://schloss-post.com/this-poem-is-a-nomad/) for how an example of translating like a bird)
+* You can decide the way you want to translate it: Literal translation, homophonic translation, or translating like a bird (Read [Thie poem is a nomad](https://schloss-post.com/this-poem-is-a-nomad/) for an example of translating like a bird)
 
 ### Final Project Proposal
 * Your project proposal should include the following:
