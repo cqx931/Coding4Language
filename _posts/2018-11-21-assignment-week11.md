@@ -4,7 +4,8 @@ title:  "Assignment Week11"
 date:   2018-11-21 13:00:13 -0400
 categories: Assignments
 ---
-### Final Project Process
+**Due 4PM November 26**  
+### Final Project
 * Write about your initial attempt/process made for your final project. It could be a more developed project idea, writings, research, early stage experiment, or visual mockups.
 * Please use that as a chance to gather materials for your final documentation/presentation.
 
