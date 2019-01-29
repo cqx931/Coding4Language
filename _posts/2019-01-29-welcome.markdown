@@ -4,7 +4,7 @@ title:  "Week1 Welcome to Coding for Language"
 date:   2018-09-05 19:14:51 -0400
 categories: Announcement
 ---
-Please fill in [the questionaire](https://goo.gl/forms/SoJCqKwrn7GElE4h2)
+Please fill in [the questionaire](https://goo.gl/forms/SoJCqKwrn7GElE4h2) before 10pm Jan 29th.
 
 <!-- Reading
 
