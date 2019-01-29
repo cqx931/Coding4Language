@@ -65,7 +65,7 @@ Cayley, John. Grammalepsy: Essays on Digital Language Art. Bloomsbury Publishing
 
 * [Interview with Ian Hatcher](http://www.raintaxi.com/multiplicity-an-interview-with-ian-hatcher/) -->
 
-* [We who spoke LOLcat now speak Doge](https://io9.gizmodo.com/we-who-spoke-lolcat-now-speak-doge-1481243678/1482130388)
+<!-- * [We who spoke LOLcat now speak Doge](https://io9.gizmodo.com/we-who-spoke-lolcat-now-speak-doge-1481243678/1482130388) -->
 
 <!-- http://electronicbookreview.com/essay/the-code-is-not-the-text-unless-it-is-the-text/
 http://www.ubu.com/papers/kostelanetz.html

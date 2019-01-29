@@ -1,5 +1,4 @@
-# DigitalLanguageArt
-Course website for Digital Language Art
+Course website for Coding for Language: an Introduction
 
 to build:
 `bundle exec jekyll serve`
