@@ -2,13 +2,15 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Digital Language Arts I
+title: "Coding for Language: an Introduction"
 feature_image: "assets/img/home-bg.jpg"
+
 ---
-**Course #: LITR 0110D Section S01** <br>
+
+**Course #: LITR 0310L Section S01** <br>
 **Time: Tuesday 4pm-6:30pm** <br>
-**Location: Rockefeller Library A9** <br>
+**Location: Page-Robinson Hall 403** <br>
 
-A project-oriented workshop for writers, visual/sound artists, filmmakers and programmers who wish to explore language arts in digital media. Course content covers aesthetic, technical and theoretical concerns arising at the intersection of code, language, and digital media arts. Assignments and projects will focus primarily on textual media, but will also address sound, image, video, performance and installation. You'll learn through doing, reading, discussing and collaborating on works in various media. Coding experience is preferred but not required.
+In a time when almost every word and sentence are digitized by computers, language becomes programmable. In this project centered workshop we are going to explore what possibilities, questions and challenges programming bring to language, especially in reading and writing practices. For students who are interested in language, coding, poetics, and creative writing, you’ll learn through doing, reading, discussing and collaborating on works in programmable media. Some previous experience with programming is desirable. If you have a basic understanding of programming and are willing to spend more time to code for language, this course is for you.
 
-[Latest Syllabus](https://goo.gl/UoGHJS)
+[Latest Syllabus](https://docs.google.com/document/d/1LYmZAF9qotOwEtIesvtFUsVGsM7DxUTf47dZbSsj23o/edit?usp=sharing)
