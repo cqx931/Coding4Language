@@ -5,7 +5,7 @@ feature_image: "../assets/img/r-bg.png"
 
 ---
 
-### Artists
+## Artists
 * [Alan Sondheim]()
 * [Allison Parrish](http://www.decontextualize.com/)
 * [Daniel C. Howe](http://rednoise.org/dhowe)
@@ -41,8 +41,7 @@ feature_image: "../assets/img/r-bg.png"
 * [Young-Hae Chang Heavy Industries](http://yhchang.com/)
 
 
-### Readings
-#### Books
+## Readings
 Hartman, Charles O. Virtual Muse : Experiments In Computer Poetry. Hanover, N.H.: Published by University of Press of New England [for] Weleyan University Press, 1996.
 
 Sondheim, Alan. Writing Under : Selections From the Internet Text. Morgantown, WV: Center for Literary Computing, 2012.
@@ -74,11 +73,11 @@ http://www.dichtung-digital.org/2006/01/Raley/index.htm
 http://actascenica.teak.fi/huopaniemi-otso/ -->
 
 
-### Tools
+## Tools
 * [Audacity](https://www.audacityteam.org/): a free, open source, cross-platform audio software
 * [Adobe Creative Cloud](https://www.brown.edu/information-technology/software/catalog/adobe-creative-cloud-desktop-application): free to all Brown Students!
 
-### Coding
+## Coding
 * [RiTa](http://www.rednoise.org/rita/): a software toolkit for computational literature [Java/Javascript/Processing/Node JS/Android]
 * [P5js](https://p5js.org/): a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing
 * [ml5](https://ml5js.org/): Friendly Machine Learning for the Web
@@ -87,7 +86,7 @@ http://actascenica.teak.fi/huopaniemi-otso/ -->
 <!-- * [AFrame](https://aframe.io/): A web framework for building virtual reality experiences -->
 
 
-### Other Links
+## Other Links
 * [Arras.Net](http://www.arras.net)
 * [Adaweb](http://www.adaweb.com/)
 * [DrunkenBoat](http://www.drunkenboat.com/)
