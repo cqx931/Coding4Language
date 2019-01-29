@@ -6,7 +6,7 @@ categories: Announcement
 ---
 Please fill in [the questionaire](https://goo.gl/forms/SoJCqKwrn7GElE4h2)
 
-Reading
+<!-- Reading
 
 Text Assignment
 
@@ -33,4 +33,4 @@ Focus on software, not much 3D involved in this class(Writing 3D)
 
 My background
 Translation
-Multilingual art projects
+Multilingual art projects -->
