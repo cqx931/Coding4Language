@@ -38,7 +38,7 @@ navigation_header:
   Home: /
   Posts: /posts/
   Students: /students/
-  Presentations: /presentations/
+  # Presentations: /presentations/
   Resources: /resources/
   Questions: /questions/
   Search: /search/
