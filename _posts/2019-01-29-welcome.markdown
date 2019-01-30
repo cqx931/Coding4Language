@@ -9,6 +9,8 @@ Please fill in [the questionaire](https://goo.gl/forms/SoJCqKwrn7GElE4h2) before
 #### Github Tutorials
 * Video tutorials: [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV), by Daniel Shiffman
 * [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [Download Git](https://git-scm.com/downloads)
+* [Github Desktop](https://desktop.github.com/): If you prefer to use if from a user interface
 
 #### Coding tutorials for Beginners
 If you have absolutely no coding experience before, I recommend you to work through [this course on codecademy](https://www.codecademy.com/learn/learn-how-to-code). You can learn about key programming concepts such as variables, functions, and control flow. Learning these concepts will set you up in any programming language that you choose to learn later! It always takes some time to start thinking like a programmer.
