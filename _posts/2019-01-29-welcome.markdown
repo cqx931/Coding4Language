@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week1 Intro"
-date:   2018-09-05 19:14:51 -0400
+date:   2019-01-29 20:14:51 -0400
 categories: Class
 ---
 Please fill in [the questionaire](https://goo.gl/forms/SoJCqKwrn7GElE4h2) before 10pm Jan 29th.
