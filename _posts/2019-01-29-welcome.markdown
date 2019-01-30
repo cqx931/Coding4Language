@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Week1 Welcome to Coding for Language"
+title:  "Week1 Intro"
 date:   2018-09-05 19:14:51 -0400
-categories: Announcement
+categories: Class
 ---
 Please fill in [the questionaire](https://goo.gl/forms/SoJCqKwrn7GElE4h2) before 10pm Jan 29th.
 
