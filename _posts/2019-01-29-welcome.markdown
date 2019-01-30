@@ -6,65 +6,9 @@ categories: Announcement
 ---
 Please fill in [the questionaire](https://goo.gl/forms/SoJCqKwrn7GElE4h2) before 10pm Jan 29th.
 
----
-### Chaos
-Names
-Who has sent me  work samples but I didn't call your name?
-Successful candidate
+#### Github Tutorials
+* Video tutorials: [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV), by Daniel Shiffman
+* [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
-Others & New comers
-
-Everyone please fill in the questionaire if you still consider enroll in the class after I go through the syllabus
----------
-###Go through the Syllabus
-
-Reading
-
-Text Assignment
-
-This class is all about creative coding practice that tries to see how we can use coding as a tool to make interesting works on language that don't exist before.
-You don't hate coding & basic understanding of computation and programming (variables, string, for loop..., basic html css javascript)
-p5js, ml5js, RiTa -> artist toolkit, basic, easy to learn, good enough for you to be creative but if you feel more comfortable to use python/C/whatever language you already know, feel free to do so.
-
-### Class format
-Discussions:
-Art projects
-Readings
-Assignment Workshop
------------
-Concepts, knowledge
-Tutorials...
-
-### General Principles of the class
-# Value
-Art value
-Writing quality
-Code quality
-
--> Not required all of them for your assignments but please try to achieve more and definitely for your final
-
-Various background with different levels of Programming skills
-Share your knowledge, help each other, you can always learn a lot from each other
-
-#Language
-English & more
-
-# Focus on software
-not much 3D involved in this class (Writing 3D)
-
----------------
-### My background
-Translation
-Multilingual art projects
-
-### Presentation
--------
-BREAK
-_______
-### Github Tutorials
-Why Github?
-- a good place to backup your project
-- easier for me to review your code remotely
-- host your website
-- Git: good version control system
-- If it is public: open source -> help Others
+#### Coding tutorials for Beginners
+If you have absolutely no coding experience before, I recommend you to work through [this course on codecademy](https://www.codecademy.com/learn/learn-how-to-code). You can learn about key programming concepts such as variables, functions, and control flow. Learning these concepts will set you up in any programming language that you choose to learn later! It always takes some time to start thinking like a programmer.

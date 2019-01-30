@@ -5,6 +5,7 @@ date:   2019-01-30 08:14:51 -0400
 categories: Assignments
 ---
 **DUE Feb 04 Monday 4pm**
+* Play with [Bot or Not](http://botpoet.com/)
 
 #### Readings
 * Read and Introduction, Chapter3 from the book [Virtual Muse: Experiments in Computer Poetry](https://search.library.brown.edu/catalog/b8225448), by Charles Hartman
@@ -15,7 +16,6 @@ categories: Assignments
 * [Sea and Spar Between](https://nickm.com/montfort_strickland/sea_and_spar_between/), by Nick Montfort
 * [Post Modernism Generator](http://www.elsewhere.org/journal/pomo/), by Andrew C. Bulhak. If you are interested, more detailed technical information can be found [here](http://www.elsewhere.org/journal/wp-content/uploads/2005/11/tr-cs96-264.pdf)
 * [A guide to getting lost](https://twitter.com/autoflaneur)
-* Play with [Bot or Not](http://botpoet.com/)
 
 #### Blog
 * Please send me your blog URL by email.
