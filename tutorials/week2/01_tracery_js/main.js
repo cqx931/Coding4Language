@@ -45,7 +45,7 @@ $(document).ready(function() {
 
 	var grammar = tracery.createGrammar(jsonObj);
 	var text = grammar.flatten('#origin#');
-	$('.content').html(text);
+	$('#content').html(text);
 
   function loadJsonFromFile() {
 		// You can load directly from local files in firefox but not in Chrome
