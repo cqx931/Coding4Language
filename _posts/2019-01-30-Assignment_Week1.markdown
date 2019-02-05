@@ -8,7 +8,7 @@ categories: Assignments
 * Play with [Bot or Not](http://botpoet.com/)
 
 #### Readings
-* Read and Introduction, Chapter3 from the book [Virtual Muse: Experiments in Computer Poetry](https://search.library.brown.edu/catalog/b8225448), by Charles Hartman
+* Read Introduction and Chapter3 from the book [Virtual Muse: Experiments in Computer Poetry](https://search.library.brown.edu/catalog/b8225448), by Charles Hartman
 * Read Berkman, Natalie. ["Digital Oulipo: Programming Potential Literature."](http://digitalhumanities.org/dhq/vol/11/3/000325/000325.html)
 * Learn about [Context Free Grammars](https://rednoise.org/wdm/index.php?n=Main.Grammars)
 
