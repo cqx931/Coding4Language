@@ -1,0 +1,17 @@
+{
+	"<start>": ["<NP> <VP>", "<IN> <NP> <VP>"],
+	"<NP>": ["<Det> <N>", "<Det> <Adj> <N>", "<Det> <N> <PP>"],
+	"<PP>": ["Prep NP"],
+	"<Prep>": ["in", "on", "over", "against","with"],
+	"<VP>": ["<Vtrans NP>", "<Vintr>","hasOwnProperty", "isFinite", "isNaN", "isPrototypeOf"],
+	"<Det>": ["this"],
+	"<N>": ["Date", "Math", "NaN", "Number", "Object", "String", "char","Infinity","function", "length", "name", "prototype", "class", "switch", "default",
+        "boolean", "byte", "case", "const", "debugger", "export", "import", "int", "interface", "package", "return", "var", "void", "argument"],
+"Vintr": ["continue", "float", "vocalize", "sneeze","return"],
+	"<Adj>": ["protected", "synchronized", "double", "undefined", "true", "static", "super", "public", "native", "new", "abstract",
+          "final", "long", "null", "private", "short", "transient","void","volatile"],
+	"<Vtrans>": ["catch", "do", "delete", "break", "continue", "extend", "implement", "let","throw","try","yield","eval",
+             "export", "import", "return","goto","void"],
+  "<IN>":["if", "for", "while", "with"],
+  "<RB>":["finally","else"]
+}

@@ -1,0 +1,53 @@
+{
+	"origin": [
+		"#NP# #VP#",
+		"#IN# #NP# #VP#"
+	],
+	"NP": [
+		"#Det# #N#",
+		"#Det# #Adj# #N#",
+		"#Det# #N# #PP#",
+		"#N#"
+	],
+	"PP": [
+		"#Prep# #NP#"
+	],
+	"Prep": [
+		"in",
+		"on",
+		"over",
+		"against",
+		"with"
+	],
+	"VP": [
+		"#Vtrans# #NP#",
+		"#Vintr#",
+		"hasOwnProperty",
+		"isFinite",
+		"isNaN",
+		"isPrototypeOf #NP#"
+	],
+	"Det": [
+		"this"
+	],
+	"N": [
+		"Array","Date", "Math", "NaN", "Number", "Object", "String", "char","Infinity","function",
+		"length", "name", "prototype", "class", "switch", "default", "boolean", "byte", "case", "const",
+		"debugger", "int", "interface", "package", "return", "var", "void", "argument"
+	],
+	"Adj": [
+		"protected", "synchronized", "double","default", "undefined", "true","false", "static", "super", "public", "native", "new", "abstract", "final", "long", "null", "private", "short", "transient","void","volatile"
+	],
+	"Vtrans": [
+		"catch", "do", "delete", "break", "continue", "extend", "implement", "let","throw","try","yield","eval", "export", "import", "return","goto","void"
+	],
+	"Vintr": [
+		"continue", "float", "vocalize", "return"
+	],
+  "IN":[
+		"if", "for", "while", "with"
+	],
+  "RB":[
+		"finally","else"
+	]
+}
