@@ -7,10 +7,10 @@ categories: Assignments
 **DUE Feb 11 Monday 4pm**
 
 #### Readings
-* Excerpt from “Course in General Linguistics” by Ferdinand de. Saussure
-* Hartman, Charles O. “Start with Poetry.” Virtual Muse: Experiments in Computer Poetry, Wesleyan University Press, 1996, pp. 16–27.
-* Morris, John. “How to Write Poems with a Computer.” Michigan Quarterly Review, vol. 6, no. 1, 1967, pp. 17–20.
-* Terms to know when talking about language, Allison Parrish
+* [Excerpt from “Course in General Linguistics”](https://drive.google.com/file/d/1lr1F8Zb0TVDV3WoSrUBTTOiHawO5S5an/view?usp=sharing) by Ferdinand de. Saussure
+* Hartman, Charles O. [“Start with Poetry.”](https://drive.google.com/file/d/1_1II0kp4NE6xkGLRZPy2UDJqNcRuI7We/view?usp=sharing) Virtual Muse: Experiments in Computer Poetry, Wesleyan University Press, 1996, pp. 16–27.
+* Morris, John. [“How to Write Poems with a Computer.”](http://dwwp.decontextualize.com/pdfs/morris.pdf) Michigan Quarterly Review, vol. 6, no. 1, 1967, pp. 17–20.
+* [Terms to know when talking about language](http://word-game-workshop.decontextualize.com/language-vocab/), Allison Parrish
 
 #### Art
 * [Automatype](http://rednoise.org/rita/gallery/automatype/), by Daniel C. Howe
