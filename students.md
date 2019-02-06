@@ -4,7 +4,7 @@ title:  "Students"
 feature_image: "../assets/img/students-bg.jpg"
 ---
 * [Amy](https://sites.google.com/brown.edu/amypu/home?authuser=1)
-* [Bex]()
+* [Bex](https://bexnhthe1st.wordpress.com/)
 * [Connor](https://kconnorbrown.github.io/)
 * [Eric](https://programmingforlanguage.wordpress.com/)
 * [Galadriel](http://spynx.de/cfl/blog.html)

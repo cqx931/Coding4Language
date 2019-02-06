@@ -5,6 +5,7 @@ date:   2019-02-05 11:14:51 -0400
 categories: Assignments
 ---
 **DUE Feb 11 Monday 4pm**
+**Please post the response on your website before the deadline!**
 
 #### Readings
 * [Excerpt from “Course in General Linguistics”](https://drive.google.com/file/d/1lr1F8Zb0TVDV3WoSrUBTTOiHawO5S5an/view?usp=sharing) by Ferdinand de. Saussure
