@@ -10,5 +10,5 @@ feature_image: "../assets/img/students-bg.jpg"
 [Galadriel](http://spynx.de/cfl/blog.html)
 [Jared](https://write.as/jtsiskin/)
 [Jessica](https://sites.google.com/brown.edu/litr0310l-jessica-dai/)
-[Katherine]()
+[Katherine](https://ksangg1.tumblr.com/)
 [Sandra](https://humanitygoescoding.postach.io/)

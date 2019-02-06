@@ -19,5 +19,6 @@ categories: Assignments
 * [I Waded In Clear Water](http://aparrish.github.io/nanogenmo2014/final.pdf), by Allison Parrish: A rather complicated example of generative project using NLP. Please make sure to read at least page 3-16 from the pdf and read/skim the rest if you like it. A more detailed explanation of the generation process can be found [here](https://github.com/aparrish/nanogenmo2014)
 
 #### Questions to think about
-* TBA
+* When does meaning emerge from language? How does gap contribute to poetry and what gaps can we create using programable media? How does a procedural technique reflect the intentionality of its creator? What effect does the choice of source text have on the final generative result?
+
 <!-- * What do you considered as good computational poems? -->
