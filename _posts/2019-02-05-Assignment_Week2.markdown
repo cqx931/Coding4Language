@@ -16,7 +16,7 @@ categories: Assignments
 #### Art
 * [Automatype](http://rednoise.org/rita/gallery/automatype/), by Daniel C. Howe
 * [Aram Saroyan’s minimalist poetry](http://www.ubu.com/historical/saroyan/saroyan01.html): A collection of pre-digital era minimalist poems presented on the web
-* [mémoire involuntaire no. 1](http://collection.eliterature.org/2/works/soderman_memory.html), by A. Braxton Soderman
+* [mémoire involuntaire no. 1](http://collection.eliterature.org/2/works/soderman_memory.html)/[JS version](http://rednoise.org/rita/gallery/MemoireInvolontaireNo1/), by A. Braxton Soderman
 * [I Waded In Clear Water](http://aparrish.github.io/nanogenmo2014/final.pdf), by Allison Parrish: A rather complicated example of generative project using NLP. Please make sure to read at least page 3-16 from the pdf and read/skim the rest if you like it. A more detailed explanation of the generation process can be found [here](https://github.com/aparrish/nanogenmo2014)
 
 #### Questions to think about
