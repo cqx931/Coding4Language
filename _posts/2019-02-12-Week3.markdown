@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Week3 Understanding language"
+date:   2019-02-12 08:14:51 -0400
+categories: Class
+---
+# More Inspirations and examples
+* [The 17 best bots on Twitter](https://qz.com/279139/the-17-best-bots-on-twitter/)
+
+# NLP Tools & Reference
+* [Datamuse](https://www.datamuse.com/api/)
+* [Sentiment Analysis for Node.js.](https://github.com/thisandagain/sentiment#api-reference)
+* [ConceptNet](http://conceptnet.io/)
+* [Penn Tags](https://rednoise.org/rita/reference/PennTags.html)
+
+# Python & NLP:
+* [spacy](https://spacy.io/):Industrial-Strength Natural Language Processing
+* [nltk](https://pythonspot.com/category/nltk/)
+
+# More coding material for beginners
+* [Basic Javascript String Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+* Compare what you learnt above with RiString Reference, familiarize yourself with these methods so that you know what to search when you need it
+* You will need **Regex expression** if you want to find words that match certain patterns. For a systematic understanding of regex, you can check [regexone](https://regexone.com/). \ If you are uncertain about the regex expression you wrote, use [Regex101](https://regex101.com/) to double check your regex expression before you copy paste it to your code.
