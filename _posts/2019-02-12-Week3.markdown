@@ -14,7 +14,7 @@ categories: Class
 * [Penn Tags](https://rednoise.org/rita/reference/PennTags.html)
 
 # Python & NLP:
-* [spacy](https://spacy.io/):Industrial-Strength Natural Language Processing
+* [spacy](https://spacy.io/): Industrial-Strength Natural Language Processing
 * [nltk](https://pythonspot.com/category/nltk/)
 
 # More coding material for beginners

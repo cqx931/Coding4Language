@@ -4,7 +4,7 @@ title:  "Assignment Week3"
 date:   2019-02-11 08:14:51 -0400
 categories: Assignments
 ---
-##DUE Feb 25 4pm##
+**DUE Feb 25 4pm**
 
 * [Presentation Signup](https://docs.google.com/spreadsheets/d/1Ze4H7jXZtd0DxYIKk9igSKaWjw3IZ12_DA8Wh_5j1po/edit#gid=0)
 
