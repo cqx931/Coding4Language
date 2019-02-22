@@ -26,4 +26,4 @@ categories: Assignments
 
 * Check [Kim Kierkegaardashian](https://twitter.com/kimkierkegaard?lang=en), and there is even a [book](https://www.amazon.com/exec/obidos/ASIN/1982100982?tag=simonsayscom)!
 
-* Read [Using Machine Learning to Make Art](https://magenta.as/using-machine-learning-to-make-art-84df7d3bb911Using Machine Learning to Make Art)
+* Read [Using Machine Learning to Make Art](https://magenta.as/using-machine-learning-to-make-art-84df7d3bb911)
