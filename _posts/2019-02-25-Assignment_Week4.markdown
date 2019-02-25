@@ -15,4 +15,4 @@ categories: Assignments
 * Read [Adventures in Narrated Reality](https://medium.com/artists-and-machine-intelligence/adventures-in-narrated-reality-6516ff395ba3) and check out [word.camera](https://word.camera/), by Ross Goodwin
 
 ### Some questions to think about:
-*
+* How does machine understand natural language? What is word2vec? Can mathematics and probabilities represent meaning? Do you regard the language created by machine learning algorithms as 'new'? 
