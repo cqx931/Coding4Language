@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week4 Markov chain"
-date:   2019-02-24 20:14:51 -0400
+date:   2019-02-25 20:14:51 -0400
 categories: Class
 ---
 ### Code examples
@@ -15,6 +15,7 @@ categories: Class
 * [By Daniel Shiffman](https://shiffman.net/a2z/markov/)
 
 <!--
+TODO:
 In class demo: artist bio generator
 -->
 
