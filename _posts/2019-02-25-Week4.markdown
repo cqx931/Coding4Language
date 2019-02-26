@@ -5,7 +5,7 @@ date:   2019-02-25 20:14:51 -0400
 categories: Class
 ---
 ### Code examples
-* [shiffman/a2z-f16/week7-markov](https://github.com/shiffman/A2Z-F16/tree/gh-pages/week7-markov)
+* [tutorials/week4](https://github.com/cqx931/Coding4Language/tree/master/tutorials/week4)
 
 ### More Examples
 * [ITP Course generator](http://static.decontextualize.com/toys/next_semester), by Allison Parish
