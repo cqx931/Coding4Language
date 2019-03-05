@@ -12,5 +12,5 @@ feature_image: "../assets/img/students-bg.jpg"
 * [Jessica](https://sites.google.com/brown.edu/litr0310l-jessica-dai/)
 * [Katherine](https://ksangg1.tumblr.com/)
 * [Sandra](https://humanitygoescoding.postach.io/)
-* [Sebastian]()
+* [Sebastian](https://sites.google.com/brown.edu/sfdblogposts/home?authuser=1&pli=1)
 * [Tanvir](https://sites.google.com/brown.edu/tshahriablogpost0/)
