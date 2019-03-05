@@ -14,7 +14,6 @@ categories: Class
 
 #### More Advanced
 * [Training LSTM](https://ml5js.org/docs/training-lstm)
-https://www.clips.uantwerpen.be/pages/pattern-en
 
 #### Extra
 * [Understanding Word Vectors, by Allison Parrish](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
