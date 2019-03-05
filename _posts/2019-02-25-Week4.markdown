@@ -4,14 +4,14 @@ title:  "Week4 Markov chain"
 date:   2019-02-25 20:14:51 -0400
 categories: Class
 ---
-### Code examples
+#### Code examples
 * [tutorials/week4](https://github.com/cqx931/Coding4Language/tree/master/tutorials/week4)
 
-### More Examples
+#### More Examples
 * [ITP Course generator](http://static.decontextualize.com/toys/next_semester), by Allison Parish
 * [WebTrigrams](http://www.chrisharrison.net/index.php/Visualizations/WebTrigrams), by Chris Harrison
 
-#### Video Tutorials
+##### Video Tutorials
 * [By Daniel Shiffman](https://shiffman.net/a2z/markov/)
 
 <!--

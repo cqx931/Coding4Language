@@ -8,7 +8,7 @@ categories: Assignments
 
 * [Presentation Signup](https://docs.google.com/spreadsheets/d/1Ze4H7jXZtd0DxYIKk9igSKaWjw3IZ12_DA8Wh_5j1po/edit#gid=0)
 
-### Creative coding project I
+#### Creative coding project I
 * Build your own text generator using grammar and common NLP features.
 * It could be a poetic project based on non poetic text material, a/an receipt/essay/routine/script/definition/instruction generator...The final deliverable can be a twitter bot, a webpage or even a pdf.
 * Please document the project in a separate post on your website. Some questions for you to consider while writing the documentation: What drives you to make this piece? How did you gather your text material (Found text or your own writing)? How did you develop your generative rules? Did you face any unexpected challenge in the process? What are they and how did you try to overcome them?
@@ -16,7 +16,7 @@ categories: Assignments
 * Start early! Show your project to your friends. How long do they spend on your piece? Try to improve the piece so that it can keep people engaged for a longer time.
 * Don't get stuck with technical issues!
 
-### Reading Response
+#### Reading Response
 
 * Check out [Markov and You](https://blog.codinghorror.com/markov-and-you/) and [Garkov](http://joshmillard.com/garkov/)
 
