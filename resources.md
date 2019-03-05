@@ -83,6 +83,7 @@ http://actascenica.teak.fi/huopaniemi-otso/ -->
 * [ml5](https://ml5js.org/): Friendly Machine Learning for the Web
 * [Processing](http://processing.org/): a software toolkit within the context of the visual arts
 * [Spacy](https://spacy.io/): Industrial-strength NLP in python
+* [pattern.en](https://www.clips.uantwerpen.be/pages/pattern-en): a fast part-of-speech tagger for English (identifies nouns, adjectives, verbs, etc. in a sentence), sentiment analysis, tools for English verb conjugation and noun singularization & pluralization, and a WordNet interface.
 <!-- * [AFrame](https://aframe.io/): A web framework for building virtual reality experiences -->
 
 
