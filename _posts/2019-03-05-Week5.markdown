@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Week5 Machine Learning & Word2vec"
+date:   2019-03-05 10:14:51 -0400
+categories: Class
+---
+#### Code Examples
+* [word2vec](https://ml5js.org/docs/word2vec-example)
+* [LSTM](https://ml5js.org/docs/lstm-example)
+* [Training LSTM](https://ml5js.org/docs/training-lstm)
+
+#### Documentation
+* [charRNN](https://ml5js.org/docs/CharRNN)
+* [Word2vec](https://ml5js.org/docs/Word2vec)
+
+#### More
+* [word2vec in python](https://pypi.org/project/word2vec/)
+* [charRNN in python](https://pypi.org/project/charrnn/)
+* [Understanding Word Vectors, by Allison Parrish](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
+
+#### Extra
+* [Neural networks, 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+* [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
+* [Corpora](https://github.com/dariusk/corpora)
+<!-- In class: Word2vec && LSTM -->
