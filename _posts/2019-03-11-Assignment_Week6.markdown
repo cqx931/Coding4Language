@@ -8,12 +8,10 @@ categories: Assignments
 #### Readings & Arts
 * Read [“Writing to Be Found and Writing Readers.”](http://www.digitalhumanities.org/dhq/vol/5/3/000104/000104.html), John Cayley
 * Check out [The Readers Project](http://thereadersproject.org/), by John Cayley & Daniel C. Howe and [Collocations](https://vimeo.com/119868407), by Abraham Avnisan
-
+*
 *  Read [How We Think : Digital Media and Contemporary Technogenesis: Chapter 3 How we read: close, hyper, Machine. N. Katherine Hayles.](https://drive.google.com/open?id=1EUuTCB2rOTdyTEGv2sNZ9gzj3kzHnsoE)
 * Check out [CodeProfiles](https://whitney.org/exhibitions/programmed?section=3#exhibition-artworks), by W. Bradford Paley,
 * Compare [Your world of text](https://www.yourworldoftext.com/), by Andrew Badr and [Opening Sources](http://openingsources.com/) by Ian Hatcher
 
-####
-*  [Dreamlife of Letters](http://collection.eliterature.org/1/works/stefans__the_dreamlife_of_letters/dreamlife_index.html), by B.K. Stefans
-*  [Loss of Grasp](https://bouchard.pers.utc.fr/deprise/home)
-*  [Mastering the Art of French Cooking and Systems Theory](http://supercentral.org/cookingsystem/), by Tan Lin
+<!-- #### Questions to think about
+* -->
