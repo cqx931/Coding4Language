@@ -4,7 +4,7 @@ title:  "Week6 Animated Text"
 date:   2019-03-12 10:14:51 -0400
 categories: Class
 ---
-#### Code Materials
+#### Coding Material
 * [HTML+CSS: Styling text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 * [CSS Animation](https://cssanimation.rocks/)
 * [Processing: Strings and Drawing Text](https://www.youtube.com/watch?v=NLzne4XaR3M)
