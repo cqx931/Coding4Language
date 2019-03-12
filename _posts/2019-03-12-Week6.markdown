@@ -4,6 +4,9 @@ title:  "Week6 Animated Text"
 date:   2019-03-12 10:14:51 -0400
 categories: Class
 ---
+#### Coding Examples
+* [tutorials/week6](https://github.com/cqx931/Coding4Language/tree/master/tutorials/week6)
+
 #### Coding Material
 * [HTML+CSS: Styling text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 * [CSS Animation](https://cssanimation.rocks/)
