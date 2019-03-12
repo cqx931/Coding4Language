@@ -1,0 +1,141 @@
+<!--
+ Copyright (c) 2018 ml5
+
+ This software is released under the MIT License.
+ https://opensource.org/licenses/MIT
+-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Text in HTML/CSS</title>
+
+  <style>
+  body {
+    margin:2em;
+  }
+  </style>
+</head>
+
+<body>
+  <h2>Displaying Text for the web</h2>
+  <div class="section1" id="basicHTML">
+    <h3>1.Basic </h3>
+    <style media="screen">
+      p{
+        width:600px;
+      }
+    </style>
+    <p>Paragraph: Lorem ipsum dolor sit amet consectetur adipiscing, elit sollicitudin iaculis penatibus leo senectus, turpis parturient vehicula fermentum vel. At est iaculis euismod sapien tempus enim porta, blandit varius hac netus fringilla. Feugiat pellentesque senectus gravida nam ante ornare tellus a imperdiet, porta neque non mauris integer vulputate torquent in, euismod interdum conubia magnis class risus tristique cum.
+</p>
+    You can display text without using any html tag
+    <span style="color:grey;">Span tag is usually used for inline text.</span>
+    <h1>Headers h1</h1>
+    <h2>Headers h2</h2>
+    <h3>Headers h3</h3>
+    <h4>Headers h4</h4>
+    <h5>Headers h5</h5>
+  </div>
+
+  <div class="section2" id="font">
+  <h3>3.Basic CSS Text styles</h3>
+  <p>You can use CSS to manipulate text through:
+    <span style="color:orange;">color</span>,
+    <span style="background-color:yellow;">background color</span>,
+    <span style="font-family:sans-serif;">font family</span>,
+    <span style="font-size:22px;">font size</span>,
+    <span style="font-weight:600;">font weight</span>,
+    <span style="opacity:.5;">opacity</span>,
+    <span style="letter-spacing:2px;">letter spacing</span>,
+    <span style="text-transform:uppercase;">text transformation</span>,
+    <span style="text-decoration: line-through;">text decoration</span>,
+    <span style="text-shadow: 2px 2px grey;">text shadow</span>, etc.
+
+      <h4>3.2 Line Height</h4>
+      <div style="line-height:32px;">
+        <p>Paragraph: Lorem ipsum dolor sit amet consectetur adipiscing, elit sollicitudin iaculis penatibus leo senectus, turpis parturient vehicula fermentum vel. At est iaculis euismod sapien tempus enim porta, blandit varius hac netus fringilla. Feugiat pellentesque senectus gravida nam ante ornare tellus a imperdiet, porta neque non mauris integer vulputate torquent in, euismod interdum conubia magnis class risus tristique cum.
+        </p>
+      </div>
+      <div style="line-height:12px;">
+        <p>Paragraph: Lorem ipsum dolor sit amet consectetur adipiscing, elit sollicitudin iaculis penatibus leo senectus, turpis parturient vehicula fermentum vel. At est iaculis euismod sapien tempus enim porta, blandit varius hac netus fringilla. Feugiat pellentesque senectus gravida nam ante ornare tellus a imperdiet, porta neque non mauris integer vulputate torquent in, euismod interdum conubia magnis class risus tristique cum.
+        </p>
+      </div>
+
+      <h4>3.3 Text Align</h4>
+      <div style="text-align:justify;">
+        <p>Paragraph: Lorem ipsum dolor sit amet consectetur adipiscing, elit sollicitudin iaculis penatibus leo senectus, turpis parturient vehicula fermentum vel. At est iaculis euismod sapien tempus enim porta, blandit varius hac netus fringilla. Feugiat pellentesque senectus gravida nam ante ornare tellus a imperdiet, porta neque non mauris integer vulputate torquent in, euismod interdum conubia magnis class risus tristique cum.
+        </p>
+      </div>
+      <div style="text-align:center;">
+        <p>Paragraph: Lorem ipsum dolor sit amet consectetur adipiscing, elit sollicitudin iaculis penatibus leo senectus, turpis parturient vehicula fermentum vel. At est iaculis euismod sapien tempus enim porta, blandit varius hac netus fringilla. Feugiat pellentesque senectus gravida nam ante ornare tellus a imperdiet, porta neque non mauris integer vulputate torquent in, euismod interdum conubia magnis class risus tristique cum.
+        </p>
+      </div>
+
+
+
+  </div>
+
+  <div class="section4" id="layout">
+    <h3>3.HTML Layouts</h3>
+  <a href="http://www.nigelbuckner.com/downloads/handouts/web/pos-explained/index.html">Position: Static, Relative, Absolute and Fixed</a>
+  Relative to another div: parent:absolute + child:relative;
+  Fixed:relative to the browser window
+  </div>
+
+  <div class="section4" id="cssTransition">
+    <h3>4.CSS Transition</h3>
+    <style>
+      #transitionDemo {
+        width: 200px;
+        text-align:left;
+        color:red;
+        font-weight:600;
+        -webkit-transition: color 2s; /* Safari */
+        transition: color 2s;
+      }
+      #transitionDemo:hover {
+        color:blue;
+        opacity:.5;
+      }
+    </style>
+    <div id="transitionDemo">
+      Hover to see the transition. You can do this with any css attribute.
+    </div>
+  </div>
+
+  <div class="section5" id="cssAnimation">
+  <h3>5.CSS Animation</h3>
+  <style>
+    #pulseText {
+      color:white;
+      width:300px;
+      height:80px;
+      padding:20px;
+    animation: pulse 5s infinite alternate;
+  }
+
+  @keyframes pulse {
+    0% {
+      background-color: #001F3F;
+    }
+    100% {
+      background-color: #FF4136;
+    }
+  }
+  </style>
+  <div id="pulseText">
+    the Great Light <br>
+    elevated to a spark,<br>
+    on the right of the rings<br>
+    and all gain.
+  </div>
+  </div>
+
+
+</body>
+
+</html>
