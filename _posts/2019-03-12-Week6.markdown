@@ -4,13 +4,14 @@ title:  "Week6 Animated Text"
 date:   2019-03-12 10:14:51 -0400
 categories: Class
 ---
-#### Code Examples
+#### Code Materials
 * [HTML+CSS: Styling text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 * [CSS Animation](https://cssanimation.rocks/)
 * [Processing: Strings and Drawing Text](https://www.youtube.com/watch?v=NLzne4XaR3M)
 
-#### Extra
+#### Typography
 * [Make your own font from your Handwriting!](https://www.buzzfeed.com/nicolenguyen/how-you-do-dat)
+* [Web Typography Resources](https://betterwebtype.com/web-typography-resources)
 
 #### Inspiring sketches
 * [Open Processing](https://www.openprocessing.org/browse/?q=text&time=anytime&type=all#)
