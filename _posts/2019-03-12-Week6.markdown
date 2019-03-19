@@ -13,7 +13,7 @@ categories: Class
 * [Processing: Strings and Drawing Text](https://www.youtube.com/watch?v=NLzne4XaR3M)
 
 #### Typography
-* [Make your own font from your Handwriting!](https://www.buzzfeed.com/nicolenguyen/how-you-do-dat)
+* [Make your own font from your Handwriting!](https://www.buzzfeed.com/nicolenguyen/how-you-do-dat). This link doesn't work anymore, check [this video](https://www.youtube.com/watch?v=w3Z0HyUoGnk) instead!(Many thanks to Sandra for the link!)
 * [Web Typography Resources](https://betterwebtype.com/web-typography-resources)
 
 #### Inspiring sketches
