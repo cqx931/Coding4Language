@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Assignment Week6"
-date:   2019-03-11 22:14:51 -0400
+date:   2019-03-19 08:14:51 -0400
 categories: Assignments
 ---
 **DUE Apr 1st 4pm**
