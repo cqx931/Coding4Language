@@ -16,3 +16,7 @@ categories: Assignments
 * [Hindsight Is Always 20/20](http://hindsightisalways2020.net/), by [R. Luke Dubois](http://www.lukedubois.com/)
 * [The Whole Brilliant Enterprise](https://rednoise.org/rita/gallery/TheWholeBrilliantEnterprise/o-c-r.org/2014/07/01/the-whole-brilliant-enterprise/), by Office for Creative Research
 *  Please keep writing a blog post for the following week other than your project post!
+
+#### Questions to think about
+* When do language become data? What are the possibilities, limitations, concerns of data?
+* How could we make creative and ethical use of the textual data online?
