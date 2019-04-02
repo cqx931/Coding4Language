@@ -18,6 +18,6 @@ categories: Class
 * GO TO 'chrome://extensions' into your address bar to see extensions)
 * [Chrome extension tutorials by Daniel Shiffman](https://shiffman.net/a2z/chrome-ext/)
 * [Chrome extension examples](https://github.com/tegacodes/speculative-bureaucracy/tree/master/Extensions), by Tega Brain
-* [Extensionizr](http://extensionizr.com/)
+* [Extensionizr](http://extensionizr.com/): Start your extension project with this link!
 * [Getting Started (Chrome Extension Documentation)](https://developer.chrome.com/extensions/getstarted)
 * [Publishing Chrome Extensions](https://developer.chrome.com/webstore/publish#upload-your-app)
