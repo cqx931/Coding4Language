@@ -11,3 +11,4 @@ categories: Class
 * [Critical Data Studies](http://societyandspace.org/2014/05/12/what-does-a-critical-data-studies-look-like-and-why-do-we-care-craig-dalton-and-jim-thatcher/): a great article giving a brief overview of critical data studies
 * [Data Matters](https://data-matters.nyc/): A publication from Center For Data Arts
 * [Me And My Facebook Data](https://schloss-post.com/me-and-my-facebook-data/), by Hang Do Thi Duc
+* [Data visualization with d3](https://github.com/d3/d3/wiki/Gallery)

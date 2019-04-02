@@ -13,7 +13,7 @@ categories: Assignments
 * [Baby feat](https://vimeo.com/85436452), by Ian Cheng
 * [Sandy Speaks](https://mcachicago.org/Publications/Websites/I-Was-Raised-On-The-Internet/Artworks/American-Artist-Sandy-Speaks-2016), by American Artist.(Optional: [A symposium at Eyebeam](https://www.youtube.com/watch?v=goiPSz_BSiQ))
 * [Experimental Alexa Skills by Therefore](https://www.studiotherefore.com/alexa-skills), by Therefore
-<!-- * bonus: [im here to learn so :))))))](http://www.zachblas.info/works/im-here-to-learn-so/) -->
+<!-- * in class: [im here to learn so :))))))](http://www.zachblas.info/works/im-here-to-learn-so/) -->
 
 ---
 
