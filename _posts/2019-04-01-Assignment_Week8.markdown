@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Week8 Reading online, reading data"
+date:   2019-04-01 10:14:51 -0400
+categories: Class
+---
+<!-- #### Coding Examples
+* [tutorials/week6](https://github.com/cqx931/Coding4Language/tree/master/tutorials/week6) -->
+
+#### More
+* [Critical Data Studies](http://societyandspace.org/2014/05/12/what-does-a-critical-data-studies-look-like-and-why-do-we-care-craig-dalton-and-jim-thatcher/): a great article giving a brief overview of critical data studies
+* [Data Matters](https://data-matters.nyc/): A publication from Center For Data Arts
+* [Me And My Facebook Data](https://schloss-post.com/me-and-my-facebook-data/), by Hang Do Thi Duc
