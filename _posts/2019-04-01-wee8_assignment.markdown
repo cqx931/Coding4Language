@@ -9,10 +9,11 @@ categories: Assignments
 #### Writing Response for *Social Media and Chatbots*
 
 *  Read ["What are the Dialog Systems, or Something about Eliza"](https://medium.com/@madrugado/what-are-the-dialog-systems-or-something-about-eliza-9aefb551eaaa)
+*  Read [The Emotional Chatbots Are Here to Probe Our Feelings](https://www.wired.com/story/replika-open-source/)
 * [Baby feat](https://vimeo.com/85436452), by Ian Cheng
 * [Sandy Speaks](https://mcachicago.org/Publications/Websites/I-Was-Raised-On-The-Internet/Artworks/American-Artist-Sandy-Speaks-2016), by American Artist.(Optional: [A symposium at Eyebeam](https://www.youtube.com/watch?v=goiPSz_BSiQ))
 * [Experimental Alexa Skills by Therefore](https://www.studiotherefore.com/alexa-skills), by Therefore
-* [im here to learn so :))))))](http://www.zachblas.info/works/im-here-to-learn-so/)
+<!-- * bonus: [im here to learn so :))))))](http://www.zachblas.info/works/im-here-to-learn-so/) -->
 
 ---
 
