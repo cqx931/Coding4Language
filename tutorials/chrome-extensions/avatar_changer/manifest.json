@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Twitter switch",
+  "version": "1.0",
+  "description": "This extensions alters the avatar image and content of a twitter page.",
+  "content_scripts": [
+    {
+      "matches": [
+        "http://twitter.com/*",
+        "https://twitter.com/*"
+      ],
+      "js": ["jquery.js", "content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+      "images/rainbow.png"
+  ]
+}
