@@ -13,11 +13,3 @@ categories: Class
 * [Me And My Facebook Data](https://schloss-post.com/me-and-my-facebook-data/), by Hang Do Thi Duc
 * [Data visualization with d3](https://github.com/d3/d3/wiki/Gallery)
 * [A dynamic browser based visualization library](http://visjs.org/): Plus manipulation GUI
-
-### Browser Extensions: Chrome
-* GO TO 'chrome://extensions' into your address bar to see extensions)
-* [Chrome extension tutorials by Daniel Shiffman](https://shiffman.net/a2z/chrome-ext/)
-* [Chrome extension examples](https://github.com/tegacodes/speculative-bureaucracy/tree/master/Extensions), by Tega Brain
-* [Extensionizr](http://extensionizr.com/): Start your extension project with this link!
-* [Getting Started (Chrome Extension Documentation)](https://developer.chrome.com/extensions/getstarted)
-* [Publishing Chrome Extensions](https://developer.chrome.com/webstore/publish#upload-your-app)
