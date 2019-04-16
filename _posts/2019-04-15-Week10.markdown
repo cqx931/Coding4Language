@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Week10 The disembodied voice"
+date:   2019-04-08 10:14:51 -0400
+categories: Class
+---
+* [Code X](https://directory.eliterature.org/individual-work/4662)
+* [Future of Fake News](http://futureoffakenews.com/)
+
+<h6>Tools</h6>
+* [Lyrebird](https://lyrebird.ai/): voice-cloning text-to-speech
+* [ResponsiveVoice.JS](https://responsivevoice.org/)
+* [Text2Speech on Mac](http://mac2speech.com/voices/)
