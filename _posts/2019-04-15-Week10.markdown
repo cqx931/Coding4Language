@@ -14,5 +14,5 @@ categories: Class
 * [ResponsiveVoice.JS](https://responsivevoice.org/)
 * [pytts](https://pypi.org/project/pyttsx3/)
 
-what does it mean for a perceived voice to be human or machine?
-Kimchi, interactive experience, representation, a very different listening experience
+<!-- what does it mean for a perceived voice to be human or machine?
+Kimchi, interactive experience, representation, a very different listening experience -->
