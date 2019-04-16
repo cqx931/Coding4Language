@@ -6,6 +6,8 @@ categories: Class
 ---
 * [Code X](https://directory.eliterature.org/individual-work/4662)
 * [Future of Fake News](http://futureoffakenews.com/)
+* [Multivocal](https://multivocal.org/)
+* [Genderless voice](http://www.genderlessvoice.com/)
 
 <h6>Tools</h6>
 * [Lyrebird](https://lyrebird.ai/): voice-cloning text-to-speech
