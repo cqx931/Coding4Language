@@ -11,6 +11,6 @@ categories: Assignments
 
 #### Writing Response for *The disembodied voice*
 *  Listen to [Prosthesis](https://soundcloud.com/ihatch), by Ian Hatcher and read [an interview with Ian Hatcher](http://www.raintaxi.com/multiplicity-an-interview-with-ian-hatcher/)
-* Check out the Listeners, by John Cayley and read [Aurature at the End(s) of Electronic Literature](http://electronicbookreview.com/essay/aurature-at-the-ends-of-electronic-literature/)
+* Check out [the Listeners](http://programmatology.shadoof.net/?thelisteners), by John Cayley and read [Aurature at the End(s) of Electronic Literature](http://electronicbookreview.com/essay/aurature-at-the-ends-of-electronic-literature/)
 *  [THE KIMCHI POETRY PROJECT](http://kimchipoetrymachine.weebly.com/)
 *  [Radikal Karaoke](http://collection.eliterature.org/3/work.html?work=radikal-karaoke), by BELÉN GACHE

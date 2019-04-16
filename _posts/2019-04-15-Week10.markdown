@@ -12,4 +12,7 @@ categories: Class
 <h6>Tools</h6>
 * [Lyrebird](https://lyrebird.ai/): voice-cloning text-to-speech
 * [ResponsiveVoice.JS](https://responsivevoice.org/)
-* [Text2Speech on Mac](http://mac2speech.com/voices/)
+* [pytts](https://pypi.org/project/pyttsx3/)
+
+what does it mean for a perceived voice to be human or machine?
+Kimchi, interactive experience, representation, a very different listening experience
